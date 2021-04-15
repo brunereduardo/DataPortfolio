@@ -2,7 +2,7 @@
 Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
 
 # Projetos
-Os projetos são apresentados em iPython Notebooks (publicados no Github) e a competição de Machine Learning possuem link direto para o kernel público postado no Kaggle.
+Os cases estão em iPython Notebooks (aqui no Github) e a competição de Machine Learning possuem link direto para o kernel público postado no Kaggle.
 
 * Competições
    
@@ -13,7 +13,7 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github) e a co
    
    * [Exploração e Visualização de dados da Olist](https://github.com/brunereduardo/DataPortfolio/blob/main/DataScience/Olist/EnfaseLabs.ipynb): Este trabalho tem como meta a simples exploraração e geraração de visualizações para os dados da Olist. Apresento uma overview sobre alguns tópicos para a análise das vendas da empresa, baseando-se nos dados presentes no dataset.
    
-   * [Análise Exploratória de Dados sobre um e-commerce](https://github.com/brunereduardo/DataPortfolio/blob/main/DataScience/E-commerce/OLX_Brasil_-_Business_Case.ipynb): Continuação do primeiro trabalho sobre exploração e visualização de dados com Python, agora utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o gênero de um atleta Olímpico. 
+   * [Análise Exploratória de Dados sobre um e-commerce](https://github.com/brunereduardo/DataPortfolio/blob/main/DataScience/E-commerce/OLX_Brasil_-_Business_Case.ipynb): Com base no dataset, foi realizado uma EDA para explicar à empresa, quais métricas a mesma precisaria precisa acompanhar para saber a saúde da plataforma. Também utilizamos a análise exploratória de dados para descobrir o porquê houve uma queda nas vendas em setembro de 2019.
 
 
 Para entrar em contato comigo, utilze este link para o meu no [Linkedin](linkedin.com/in/brunereduardo)
