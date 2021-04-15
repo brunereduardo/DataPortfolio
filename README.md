@@ -1,6 +1,4 @@
-# DataPortfolio
-
-# Portfólio Ciência de Dados - Bruner Eduardo Augusto Albrecht
+# DataPortfolio - Bruner Eduardo Augusto Albrecht
 Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
 
 # Projetos
@@ -13,7 +11,7 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
    
  * Cases
    
-   * [Exploração e Visualização de dados da Olist](): Este trabalho tem como objetivo explorar e gerar visualizações sobre os dados de atletas e resultados olímpicos de 120 anos de história (1896 a 2016) utilizando a linguagem python e o ambiente interativo do jupyter notebook para demonstrar os passos das análises. Geramos insights principalmente sobre a quantidade de atletas ao longo do tempo e suas distribuições de idades, pesos e alturas e também realizamos algumas análises sobre correlações entre as variáveis.
+   * [Exploração e Visualização de dados da Olist](https://github.com/brunereduardo/DataPortfolio/blob/main/DataScience/Olist/EnfaseLabs.ipynb): Este trabalho tem como objetivo explorar e gerar visualizações sobre os dados de atletas e resultados olímpicos de 120 anos de história (1896 a 2016) utilizando a linguagem python e o ambiente interativo do jupyter notebook para demonstrar os passos das análises. Geramos insights principalmente sobre a quantidade de atletas ao longo do tempo e suas distribuições de idades, pesos e alturas e também realizamos algumas análises sobre correlações entre as variáveis.
   
    * [Análise Exploratória de Dados sobre um e-commerce](): Continuação do primeiro trabalho sobre exploração e visualização de dados com Python, agora utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o gênero de um atleta Olímpico. 
 
