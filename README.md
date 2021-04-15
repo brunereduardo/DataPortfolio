@@ -7,7 +7,7 @@ Os cases estão em iPython Notebooks (aqui no Github) e a competição de Machin
 * Competições
    
    * [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/bruneralbrecht/exercise-machine-learning-competitions):
-   Este trabalho faz parte da edição de junho de 2019 da competição de machine learning promovida pela Data Science Academy. Nossa missão foi prever o índice de lealdade para cada "card_id" representado no conjunto de dados "dataset_teste", um alto índice de lealdade indica que o cliente tem maior probabilidade de comprar novamente produtos ou serviços da empresa, o índice é muito utilizado por empresas para criar um serviço personalizado, melhorando a satisfação do cliente e consequentemente, as vendas da empresa.
+   Como teste para a área, eu relizei esta primeira competição no kaggle que utilia machine learning para predizer os preços de casas que utiliza um dataset mais comportado do Boston Housing dataset.
    
  * Cases
    
