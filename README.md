@@ -1,5 +1,5 @@
 # DataPortfolio - Bruner Eduardo Augusto Albrecht
-Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
+O objetivo deste portifóilo é de agragar meu conhecimento para a gerarção de valor através do estudo de data science e data engineer, além das novas ferramentas e tecnologias que estão inerentemente ligadas a esses temas.
 
 # Projetos
 Os cases estão em iPython Notebooks (aqui no Github) e a competição de Machine Learning possuem link direto para o kernel público postado no Kaggle.
