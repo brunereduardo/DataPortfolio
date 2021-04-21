@@ -16,4 +16,4 @@ Os cases estão em iPython Notebooks (aqui no Github) e a competição de Machin
    * [Análise Exploratória de Dados sobre um e-commerce](https://github.com/brunereduardo/DataPortfolio/blob/main/DataScience/E-commerce/OLX_Brasil_-_Business_Case.ipynb): Com base no dataset, foi realizado uma EDA para explicar à empresa, quais métricas a mesma precisaria precisa acompanhar para saber a saúde da plataforma. Também utilizamos a análise exploratória de dados para descobrir o porquê houve uma queda nas vendas em setembro de 2019.
 
 
-Para entrar em contato comigo, utilze este link para o meu no [Linkedin](linkedin.com/in/brunereduardo)
+Para entrar em contato comigo, utilze este link para o meu no [Linkedin](https://www.linkedin.com/in/brunereduardo)
